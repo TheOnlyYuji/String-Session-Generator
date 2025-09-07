@@ -9,7 +9,7 @@ A Telegram bot that generates **String Sessions** for both **Pyrogram** and **Te
 - Deployable on **Heroku, Railway, Koyeb**
 
 ## 🛠 Deployment
-1. Fork this repo
+1. Star And Fork this repo
 2. Set environment variables:
    - `API_ID`
    - `API_HASH`
